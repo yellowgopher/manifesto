@@ -70,3 +70,13 @@ ul#markdown-toc {
   float: right;
   list-style: none;
 }
+
+ul.nav ul.nav {
+  margin-left: 10px;
+  font-size: 90%;
+}
+
+ul.nav ul.nav li a {
+  padding-top: 2px;
+  padding-bottom: 2px;
+}

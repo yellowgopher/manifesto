@@ -10,9 +10,12 @@ layout: main
 
     <div class='col-sm-2'>
 
-      <ul class='nav'>
+      <ul class='nav nav-pills nav-stacked'>
+        <li>
+          <a href='{{site.baseurl}}manifesto/index.html'>Introduction</a>
+        </li>
         {% for p in policy_pages %}
-          <li>
+          <li class='{% if p.url == page.url %}active{% endif %}'>
             <a href='{{p.url}}'>{{ p.title }}</a>
             {% if p.url == page.url %}
               {% heading_list h2 %}

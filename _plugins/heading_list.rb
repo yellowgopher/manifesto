@@ -9,7 +9,7 @@ module Jekyll
     end
 
     def render(context)
-      output = "<ul>"
+      output = "<ul class='nav nav-pills nav-stacked'>"
       doc = Nokogiri::HTML.parse(context["content"])
       doc.xpath("//#{@tag}").each do |x|
         output += "<li>"
