@@ -6,22 +6,21 @@ layout: page
   {{content}}
 </div>
 
-{% assign sorted_pages = site.pages | sort:"name" %}
-{% for p in sorted_pages %}
-  {% if p.layout == 'policy' %}
-    {% assign previous_page = this_page %}
-    {% assign this_page = p %}
-    {% if p.title == page.title %}
-      {% assign this_page_index = forloop.index %}
-      {% break %}
-    {% endif %}
-  {% endif %}
-{% endfor%}
-{% for p in sorted_pages offset:this_page_index %}
-  {% if p.layout == 'policy' %}
-    {% assign next_page = p %}
+{% assign policy_pages = site.pages | where:"layout","policy" %}
+
+
+
+{% for p in policy_pages %}
+  {% assign previous_page = this_page %}
+  {% assign this_page = p %}
+  {% if p.title == page.title %}
+    {% assign this_page_index = forloop.index %}
     {% break %}
   {% endif %}
+{% endfor%}
+{% for p in policy_pages offset:this_page_index %}
+  {% assign next_page = p %}
+  {% break %}
 {% endfor %}
 
 
@@ -35,7 +34,7 @@ layout: page
   {% if next_page %}
     <li class='next'><a href='{{ next_page.url }}'>
       {{ next_page.title }}
-      <i class="fa fa-arrow-right"></i>      
+      <i class="fa fa-arrow-right"></i>
     </a></li>
-  {% endif %}  
+  {% endif %}
 </ul>
