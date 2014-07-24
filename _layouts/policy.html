@@ -2,7 +2,7 @@
 layout: main
 ---
 
-{% assign policy_pages = site.pages | where:"layout","policy" %}
+{% assign policy_pages = site.pages | manifesto_page_list %}
 
 <div class="container">
 
@@ -11,9 +11,6 @@ layout: main
     <div class='col-sm-2'>
 
       <ul class='nav nav-pills nav-stacked'>
-        <li>
-          <a href='{{site.baseurl}}manifesto/index.html'>Introduction</a>
-        </li>
         {% for p in policy_pages %}
           <li class='{% if p.url == page.url %}active{% endif %}'>
             <a href='{{p.url}}'>{{ p.title }}</a>
@@ -33,9 +30,6 @@ layout: main
       <div class="policy">
         {{content}}
       </div>
-
-
-
 
       {% for p in policy_pages %}
         {% assign previous_page = this_page %}
