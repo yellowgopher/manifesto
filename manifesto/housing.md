@@ -3,7 +3,6 @@ title: Housing
 layout: policy
 published: true
 ---
-
 ## Empty Properties
 
 Residential properties that have been empty for more than 12 months will automatically attract a 100% increase in council tax.

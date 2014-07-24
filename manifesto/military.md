@@ -3,9 +3,6 @@ title: Military
 layout: policy
 published: true
 ---
-* table of contents 
-{:toc}
-
 What level of military capability should we maintain? What role does our military have?
 
 ## Nuclear Disarmament

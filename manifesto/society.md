@@ -3,10 +3,6 @@ title: Society
 layout: policy
 published: true
 ---
-
-* table of contents 
-{:toc}
-
 What policies should we propose to improve the fabric of society?
 
 ## Secularism
@@ -28,21 +24,21 @@ All human rights exemptions for religious organisations, such as discrimination 
 
 Religious organisations operating public services will be explicitly banned from promoting their religion in the process in order to protect vulnerable members of society.
 
-Religious individuals delivering public services wishing to conscientiously object will be limited from doing so in all but the most extreme cases (e.g. doctors and abortion). 
+Religious individuals delivering public services wishing to conscientiously object will be limited from doing so in all but the most extreme cases (e.g. doctors and abortion).
 
 ## Immigration
 
-The British Isles have been the destination of migrants for millenia. Each new influx of migrants have brought new skills, languages and other cultural influences. Immigration has been unambiguously beneficial to this country, and continues to allow companies, organisations and communities to strengthen and improve by bringing in talents and viewpoints they otherwise lack. 
+The British Isles have been the destination of migrants for millenia. Each new influx of migrants have brought new skills, languages and other cultural influences. Immigration has been unambiguously beneficial to this country, and continues to allow companies, organisations and communities to strengthen and improve by bringing in talents and viewpoints they otherwise lack.
 
 This manifesto opposes those policies and views that seek to stigmatise, isolate, or denigrate those who wish to come and make a positive contribution to British society and the economy.
 
-We propose a system that will allow employers to seek the best and brightest from around the globe, as well as encouraging anyone to settle who has something to contribute to our communities. We hope to encourage more international companies to invest and establish offices here, knowing that the United Kingdom is an international hub for talent. 
+We propose a system that will allow employers to seek the best and brightest from around the globe, as well as encouraging anyone to settle who has something to contribute to our communities. We hope to encourage more international companies to invest and establish offices here, knowing that the United Kingdom is an international hub for talent.
 
 We also wish to ensure the United Kingdom remains committed to fulfilling its international obligations as a safe haven for anyone suffering, or at risk of suffering, persecution for their political or religious views, or because of their actual or perceived race, gender or sexual orientation.
 
 ## State Honours
 
-The state should be able to honour deceased individuals in ways that the current Honours System does not allow (eg remove the specific number of places within the Order of the Bath which prevents the ability to grant knighthoods to the deceased). 
+The state should be able to honour deceased individuals in ways that the current Honours System does not allow (eg remove the specific number of places within the Order of the Bath which prevents the ability to grant knighthoods to the deceased).
 
 Nominations for State Honours should continue to be encouraged from the public. These nominations should be shortlisted by a Committee appointed from within an elected Upper Chamber of Parliament. A nationwide public online vote should then decide on the final award of Honours on the basis of a redacted nomination paper to remove identifying information and prevent cronyism.
 

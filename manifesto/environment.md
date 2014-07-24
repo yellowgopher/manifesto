@@ -3,9 +3,6 @@ title: Environment
 layout: policy
 published: true
 ---
-* table of contents
-{:toc}
-
 We understand that swift and effective action is required to reduce carbon emissions
 in order to reduce the chance of catastrophic global warming. Fossil fuel reserves
 must, quite simply, be left unburnt, and our system retooled to use clean sources

@@ -3,9 +3,6 @@ title: Communications
 layout: policy
 published: true
 ---
-* table of contents 
-{:toc}
-
 What policies do we need to adopt regarding communications technologies like the Internet?
 
 ## Internet Freedom
